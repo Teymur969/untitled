@@ -8,9 +8,14 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Fidrdr rst java web</title>
   </head>
   <body>
+  <h1> eeee</h1>
+
+  For servlet click <a href="Servlet1">here</a>
+
+  <p> qwdqdqwdwqeqwdqdqqwqwwqqweqweqewqweqwewqeqweqwe  eqeqweqweqwe qweqweqwe qweqweqwe qwe qweqwe qe qeqewq </p>
   $END$
   </body>
 </html>
